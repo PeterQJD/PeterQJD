@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm a Mathematics Teaching Fellow currently learning Lean.
+
 <!--
 **PeterQJD/PeterQJD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
