@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a Mathematics Teaching Fellow currently learning Lean.
+I'm currently learning Lean. By day, I'm a Mathematics Teaching Fellow at the University of Strathclyde.
 
 <!--
 **PeterQJD/PeterQJD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
